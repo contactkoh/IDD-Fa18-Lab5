@@ -29,7 +29,7 @@
 
 **c. Upload code & a photo of your electronic circuit here.**
 
-![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/UselessBox.ino)
+[Code](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/UselessBox.ino)
 
 
 ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/electronics1.jpg)
@@ -39,7 +39,7 @@
 
 Include here:
 1. Your Arduino code.
-![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/UselessBox.ino)
+[Code](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/UselessBox.ino)
 
 
 1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
