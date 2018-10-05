@@ -72,4 +72,9 @@ I used lots of cardboard prototypes for the bopper. It was difficult to find the
 
 1. A video of your useless box in action.
 
-[![Watch the video](https://img.youtube.com/vi/38Qtszx2dJg/0.jpg)](https://youtu.be/38Qtszx2dJg)
+[![Watch the video](https://img.youtube.com/vi/38Qtszx2dJg/0.jpg)](https://youtu.be/38Qtszx2dJg)  Studio Shot 
+
+
+[![Watch the video](https://img.youtube.com/vi/NAKPGvr8Om0/0.jpg)](https://youtu.be/NAKPGvr8Om0)  Working-desk Shot
+
+
