@@ -5,7 +5,7 @@
 **a. Include a photo of your printed part here.**
 
 
-![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/servoMount.jpg)
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/servoMount.jpg)
 
 
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
@@ -16,7 +16,7 @@
 
 **b. Include a photo of your box here.**
 
-![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/photoStudio1.jpg)
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/photoStudio1.jpg)
 
 
 ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/print1.jpg)
