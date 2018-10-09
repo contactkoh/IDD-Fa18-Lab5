@@ -10,6 +10,9 @@
 
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
 
+**Bopper  stl file**
+
+[Code](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/Bopper1.stl)
 
 
 ## Laser Cutting
@@ -44,9 +47,13 @@ Include here:
 
 1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
 
-I used lots of cardboard prototypes for the bopper. It was difficult to find the right size and right length of the bopper so that it does not get stuck inside the box.  I spend much time and energy to research online and find what is a good way to mount the servo and the bopper. After much research and trials and errors, I came up with the right size and shape of the bopper that can be used as the prototype for the useless box of this sort.  Also, after many trials and errors, I was able to efficiently position the parts to fit all inside the box. As shown in the photos, for my bopper to exert enough force to lift up the lid and push the switch, I used C shape bopper with the servo attached on the lid that is attached with the switch itself. The breadboard and LED were placed on the innder side wall of the Box to not get in the way of the bopper moving. Also, I placed the battery on the inner side of the opening lid so that the Battery can provide the weight to push down the lid when the bopper has done its job of annoying me and getting back inside :) 
+**Bopper  stl file**
+
+[Code](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/Bopper1.stl)
+
+I used lots of cardboard prototypes for the bopper. It was difficult to find the right size and right length of the bopper so that it does not get stuck inside the box.  I spend much time and energy to research online and find what is a good way to mount the servo and the bopper. After much research and trials and errors, I came up with the right size and shape of the bopper that can be used as the prototype for the useless box of this sort.  Also, after many trials and errors, I was able to efficiently position the parts to fit all inside the box. As shown in the photos, for my bopper to exert enough force to lift up the lid and push the switch, I used C shape bopper with the servo attached on the lid that is attached with the switch itself. The breadboard and LED were placed on the innder side wall of the Box to not get in the way of the bopper moving. Also, I placed the battery on the inner side of the opening lid so that the Battery can provide the weight to push down the lid.
+
 Also, I changed the code so that there is some delay after I turn it on, so that bopper can later turn it off. This avoids collision between my hand and bopper's hand, to avoid pressure on the servo motor. 
-With more time I could use either 3-D printer or laser cutter to to reproduce this bopper and attach it to the servo using the screw drivers.  Unfortunately, after spending days and much effort to come up with the right shapre and size and testing the bopper, this was all I could do at the moment. (but I feel I learned alot about prototyping throught this.) 
 
 ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/box1.jpg)
 
@@ -66,6 +73,24 @@ With more time I could use either 3-D printer or laser cutter to to reproduce th
 
 ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/box9.jpg)
 
+
+**3-D print for Bopper**
+
+I took online tutorials for the OnShape and other youtube tutorials.
+I was able to create the .stl file for the bopper that has wider width at the tip so that the tip could touch the switch. 
+I also made the corners round so that it can more smoothly edge over the box. 
+
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/sketch1.jpg)
+
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/sketch2.jpg)
+
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/sketch3.jpg)
+
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/sketch4.jpg)
+
+**Bopper  stl file**
+
+[Code](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/Bopper1.stl)
 
 
 1. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
