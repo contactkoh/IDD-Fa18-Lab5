@@ -12,7 +12,7 @@
 
 **Bopper  stl file**
 
-[Code](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/Bopper1.stl)
+[stl file](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/Bopper1.stl)
 
 
 ## Laser Cutting
@@ -90,7 +90,7 @@ I also made the corners round so that it can more smoothly edge over the box.
 
 **Bopper  stl file**
 
-[Code](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/Bopper1.stl)
+[stl file](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/Bopper1.stl)
 
 
 1. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
