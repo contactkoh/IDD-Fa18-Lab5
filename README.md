@@ -7,12 +7,18 @@
 
 ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/servoMount.jpg)
 
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/3Dbopper1.jpg)
+
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/3Dbopper2.jpg)
+
 
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
 
 **Bopper  stl file**
 
 [stl file](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/Bopper1.stl)
+
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/3Dbopper1.jpg)
 
 
 ## Laser Cutting
@@ -87,6 +93,9 @@ I also made the corners round so that it can more smoothly edge over the box.
 ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/sketch3.jpg)
 
 ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/sketch4.jpg)
+
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/3Dbopper2.jpg)
+
 
 **Bopper  stl file**
 
