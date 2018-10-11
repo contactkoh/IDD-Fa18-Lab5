@@ -80,6 +80,13 @@ Also, I changed the code so that there is some delay after I turn it on, so that
 ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/box9.jpg)
 
 
+Servo Motor Mount and Bopper Mount  (drilling holes and using screws and wrapping wires)
+
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/finish1.jpg)
+
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/finish2.jpg)
+
+
 **3-D print for Bopper**
 
 I took online tutorials for the OnShape and other youtube tutorials.
@@ -97,6 +104,7 @@ I also made the corners round so that it can more smoothly edge over the box.
 ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/3Dbopper2.jpg)
 
 
+
 **Bopper  stl file**
 
 [stl file](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/Bopper1.stl)
@@ -106,7 +114,13 @@ I also made the corners round so that it can more smoothly edge over the box.
 
 ![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/photoStudio1.jpg)
 
+![alt text](https://github.com/contactkoh/IDD-Fa18-Lab5/blob/master/finish3.jpg)
+
+
 1. A video of your useless box in action.
+
+
+[![Watch the video](https://img.youtube.com/vi/P1V58qeqeeA/0.jpg)](https://youtu.be/P1V58qeqeeA) Finished Box with Durable Working Bopper! with a nice view of the East River.
 
 [![Watch the video](https://img.youtube.com/vi/38Qtszx2dJg/0.jpg)](https://youtu.be/38Qtszx2dJg)  Studio Shot 
 
